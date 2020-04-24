@@ -1,0 +1,10 @@
+C:\Users\gasto\source\repos\Practica4\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\gasto\source\repos\Practica4\Practica4\bin\Debug\Practica4.exe
+C:\Users\gasto\source\repos\Practica4\Practica4\bin\Debug\Practica4.pdb
+C:\Users\gasto\source\repos\Practica4\Practica4\bin\Debug\Logica.dll
+C:\Users\gasto\source\repos\Practica4\Practica4\bin\Debug\Logica.pdb
+C:\Users\gasto\source\repos\Practica4\Practica4\obj\Debug\Practica4.csprojAssemblyReference.cache
+C:\Users\gasto\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\gasto\source\repos\Practica4\Practica4\obj\Debug\Practica4.csproj.CopyComplete
+C:\Users\gasto\source\repos\Practica4\Practica4\obj\Debug\Practica4.exe
+C:\Users\gasto\source\repos\Practica4\Practica4\obj\Debug\Practica4.pdb
