@@ -1,0 +1,10 @@
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\bin\Debug\Practica 7.exe.config
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\bin\Debug\Practica 7.exe
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\bin\Debug\Practica 7.pdb
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\bin\Debug\Logica.dll
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\bin\Debug\Logica.pdb
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\obj\Debug\Practica 7.csprojAssemblyReference.cache
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\obj\Debug\Practica 7.csproj.CoreCompileInputs.cache
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\obj\Debug\Practica 7.csproj.CopyComplete
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\obj\Debug\Practica 7.exe
+C:\Users\gasto\Documents\GitHub\Programacionll\Practica 7 - Programacion 2\Practica 7\Practica 7\obj\Debug\Practica 7.pdb
